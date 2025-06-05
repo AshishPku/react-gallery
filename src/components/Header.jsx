@@ -27,7 +27,7 @@ const Header = ({ user }) => {
             </div>
             <div>
               <h1 className="text-2xl sm:text-3xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent hover:scale-105 transition-transform duration-300 cursor-default">
-                Photo Gallery
+                Cheetah Group
               </h1>
               <p className="text-xs text-gray-400 hidden sm:block">
                 Capture your moments
