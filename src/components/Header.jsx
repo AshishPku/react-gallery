@@ -65,7 +65,6 @@ const Header = ({ user }) => {
                   <LogOut className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1" />
                   <span className="hidden sm:inline font-medium">Sign Out</span>
                 </div>
-
                 {/* Animated background effect */}
                 <div className="absolute inset-0 bg-gradient-to-r from-red-600 to-pink-600 opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
               </button>

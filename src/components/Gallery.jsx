@@ -155,7 +155,7 @@ const Gallery = () => {
           <div className="flex flex-col lg:flex-row items-center justify-between gap-6">
             <div className="text-center lg:text-left">
               <h1 className="text-4xl lg:text-5xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent">
-                Luminous Gallery
+                Gallery
               </h1>
               <p className="text-gray-300 mt-2 text-lg">
                 Discover breathtaking moments
